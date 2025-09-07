@@ -1,7 +1,7 @@
 ### Olá! sou o luluzin 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamertingo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevenCampos)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Linguagens usadas
 
