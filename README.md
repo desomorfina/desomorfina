@@ -15,7 +15,7 @@
   
   ### Tech Stack
   
-  <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,nodejs,mongodb, git,vscode&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,nodejs,mongodb,git,vscode&theme=dark&perline=12" />
 
 </div>
 
