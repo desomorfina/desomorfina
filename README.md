@@ -52,7 +52,7 @@
 
 <div align="center">
 <p>Full-Strack & CyberSecurity</p>
-  <img src="https://moe-counter.glitch.me/get/@:lucascoleoni?theme=booru-lewd">
+  <img src="https://moe-counter.glitch.me/get/@:desomorfina?theme=booru-lewd">
 </div>
 
 <br />
