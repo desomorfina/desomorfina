@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="border-bottom: none;">Pedro <span style="color: #3B82F6;">/</span> Luluzin</h1>
+  <h1 style="border-bottom: none;">Pedro <span style="color: #3B82F6;">/</span> Santzx</h1>
   <p><b>Full Stack Developer</b> &nbsp;|&nbsp; <b>Python Enthusiast</b></p>
   
   <br />
