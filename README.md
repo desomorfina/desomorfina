@@ -46,7 +46,7 @@
 
   ### Contribution Graph
 
-  <img src="https://raw.githubusercontent.com/desomorfina/desomorfina/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=kayomatheus&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
   
 </div>
 
