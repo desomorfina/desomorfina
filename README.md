@@ -53,7 +53,7 @@
 <div align="center">
 <p>Full-Strack & CyberSecurity</p>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=desomorfina&color=2e0dbfstyle=for-the-badge&label=PROFILE+VIEWS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=desomorfina&color=3611d9&style=for-the-badge&label=PROFILE+VIEWS) 
 </div>
 
 
