@@ -52,7 +52,7 @@
 
 <div align="center">
 <p>Full-Strack & CyberSecurity</p>
-  <img src="https://moe-counter.glitch.me/get/@:desomorfina?theme=booru-lewd">
+  ![Profile Views](https://komarev.com/ghpvc/?username=kayomatheus&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
 
 <br />
